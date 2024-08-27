@@ -15026,7 +15026,6 @@ input[type=range]::-moz-range-thumb {
   height: 100%;
   background-color: rgba(255, 255, 255, 0.471); /* Ubah nilai alpha (0.5) sesuai kebutuhan */
 }
-
-.text-justify{
+.text-justifying{
   text-align: justify;
 }
